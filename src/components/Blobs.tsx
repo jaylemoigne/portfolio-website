@@ -2,12 +2,12 @@ import "/src/stylesheets/Skills.css";
 import { useEffect } from "react";
 
 var bgImages = [
-  "/images/randomSVGs/bg1.svg",
-  "/images/randomSVGs/bg2.svg",
-  "/images/randomSVGs/bg3.svg",
-  "/images/randomSVGs/bg4.svg",
-  "/images/randomSVGs/bg5.svg",
-  "/images/randomSVGs/bg6.svg",
+  "images/randomSVGs/bg1.svg",
+  "images/randomSVGs/bg2.svg",
+  "images/randomSVGs/bg3.svg",
+  "images/randomSVGs/bg4.svg",
+  "images/randomSVGs/bg5.svg",
+  "images/randomSVGs/bg6.svg",
 ];
 
 const Blobs = () => {
