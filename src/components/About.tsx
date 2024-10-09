@@ -1,4 +1,3 @@
-import "/src/stylesheets/About.css";
 import Accordion from "./Accordion";
 // import DownloadButtons from "./DownloadButtons";
 

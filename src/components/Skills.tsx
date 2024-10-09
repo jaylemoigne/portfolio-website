@@ -1,4 +1,3 @@
-import "/src/stylesheets/Skills.css";
 import SkillsCarousel from "./SkillsCarousel";
 import Blobs from "./Blobs";
 

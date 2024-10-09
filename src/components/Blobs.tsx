@@ -1,4 +1,3 @@
-import "/src/stylesheets/Skills.css";
 import { useEffect } from "react";
 
 var bgImages = [

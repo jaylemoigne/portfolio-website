@@ -1,4 +1,3 @@
-import "/src/stylesheets/Header.css";
 import "./Icons";
 import { Link } from "react-scroll";
 
