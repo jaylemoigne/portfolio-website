@@ -61,9 +61,9 @@ const Accordion: React.FC = () => {
           my own interest as well as to push myself.
           <br />
           <br />
-          Personally, I like indie folk music, experiencing nature - I'd love to
+          Personally, I love folk music, being in new places - I'd love to
           travel given the opportunity - and putting myself in new situations. A
-          lot of the inspiration from my projects comes from my love of D&D from
+          lot of the inspiration from my projects comes from my passion for D&D from
           when I was younger, so with the skills I have now, I like making tools
           that could prove helpful for new and inspired players.
         </p>
