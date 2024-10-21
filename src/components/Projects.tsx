@@ -158,16 +158,17 @@ const Projects = () => {
     },
     project7: {
       title: "Pinterest Web Clone",
-      languages: "React, TypeScript, HTML, TailwindCSS, CSS",
+      languages:
+        "Developed with the React framework, using TypeScript, HTML, TailwindCSS, CSS",
       caption:
         "A clone / redesign of a popular pinboard app called Pinterest. ",
       icons: [FaReact, FaCss3Alt, SiTypescript, IoLogoJavascript],
       description:
-        "To refine my design and front-end skills, I developed a clone version of pinterest, currently lacking functionality but has all the same design features of Pinterest. ",
+        "To refine my design and front-end skills, I developed a clone version of pinterest, currently lacking functionality but has all the same design features of Pinterest. This was a fun short exercise to develop more complex layouts with different methods.",
       images: [
         "images/screenshots/project7/homepage.png",
-        "images/screenshots/project7/search.png",
         "images/screenshots/project7/hover.png",
+        "images/screenshots/project7/search.png",
       ],
       color: "#879586",
     },
